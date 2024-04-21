@@ -1,0 +1,50 @@
+
+body {
+  
+background-color:white;
+background-image:url(img0.jpg);	
+background-repeat:no-repeat;	
+	
+}
+ 
+fieldset {
+  margin-bottom: 1px;
+  padding: 10px;
+ width:25%
+ 
+ 
+}
+ 
+.register-content:
+{
+width:60%;
+margin:auto;
+
+}
+ 
+label {
+  
+  display: block;
+ 
+  margin-bottom: 8px;
+}
+ 
+
+ 
+input:focus {
+  background:pink;
+  
+  
+}
+ 
+input, textarea {
+  width: 249px;
+}
+ 
+textarea {
+  height: 100px;
+}
+ 
+select {
+  width: 254px;
+}
